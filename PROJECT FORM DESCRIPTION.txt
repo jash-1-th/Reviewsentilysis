@@ -1,0 +1,5 @@
+Who doesn't want a review or feedback or appreciation for their work, like a class, taught or performance did, etc! but given the hectic schedules, we have in our daily lives either we neglect these or sometimes stumble upon some hurtful comments, useless feedbacks or sometimes may even overlook some appreciative lines which we wish we read earlier. In  Our projects, our  main aim is to build a model which cleans the data, segregate the feedbacks ignore the bad language, and end up giving you perfect data which you can rely upon 
+1. less time-consuming.
+2. removes hate/vulgar abuses
+3. clean data.
+4. a positive/negative beforehand feedback.
